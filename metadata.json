@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Polls Dashboard",
+  "description": "An application that displays a dashboard for managing polls. It automatically redirects users from the root page to the polls dashboard.",
+  "requestFramePermissions": []
+}
